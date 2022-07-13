@@ -1,7 +1,3 @@
-
-
-### :woman_technologist: About Me:
-
 - 👋 Hi, I am Diana 
 - :computer:  I currently use: REACT | NODE.JS | PSQL | EXPRESS | JEST 
 - 🌱 I’m learning Typescript
