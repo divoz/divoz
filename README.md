@@ -12,6 +12,27 @@
 
 ### :hammer_and_wrench: Languages and Tools
 </br>
+<p align="center" dir="auto" style="display:flex">
+  <img src="https://camo.githubusercontent.com/f91c20f6cc1493385081b56da995139f366939a3e241576cd6b721424a3ac7b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d253233463744463145" alt="Javascript" style="max-width: 100%;">
+
+  <img src="https://camo.githubusercontent.com/6a73b64ccff7ede11c129d0cce44c3a03b1ede6407135eab4b463ed9bdaff471/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d253233333137384336" alt="Typescript" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/0c6eb8e993d1c0a4f78fb1fb7c9d51271c4a18da6dbcc023b7096fc0f0d6e4b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d253233363144414642" alt="React" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/9b8f6ea7cf1129d1924f65e220214e0c7940545b25b03e407a7565def687f409/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d253233453334463236" alt="HTML" style="max-width: 100%;">
+
+  <img src="https://camo.githubusercontent.com/9171ba502a33edab7b02aad664503200b0ac5cf4339f3a07f367dccad21e19b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d253233313537324236" alt="CSS" style="max-width: 100%;">
+
+
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=logo=ubuntu&logoColor=white" alt="Ubuntu" style="width:5%; border-radius: 8px;">
+
+
+
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=logo=cypress&logoColor=white%29" alt="Cypress" style="width:5.1%; border-radius: 8px;">
+
+
+  <img src="https://img.shields.io/badge/Express-000000?style=logo=express&logoColor=white%29" alt="Express" style="width:5.1%; border-radius: 8px;">
+
+</p>
+
 
 
 
