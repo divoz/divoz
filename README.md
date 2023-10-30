@@ -12,17 +12,9 @@
   <img src="https://camo.githubusercontent.com/9b8f6ea7cf1129d1924f65e220214e0c7940545b25b03e407a7565def687f409/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d253233453334463236" alt="HTML" style="max-width: 100%;">
 
   <img src="https://camo.githubusercontent.com/9171ba502a33edab7b02aad664503200b0ac5cf4339f3a07f367dccad21e19b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d253233313537324236" alt="CSS" style="max-width: 100%;">
-
-
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=logo=ubuntu&logoColor=white" alt="Ubuntu" style="width:5.5%; border-radius: 8px;">
-
-
-
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=logo=cypress&logoColor=white%29" alt="Cypress" style="width:5.1%; border-radius: 8px;">
-
-
   <img src="https://img.shields.io/badge/Express-000000?style=logo=express&logoColor=white%29" alt="Express" style="width:5.1%; border-radius: 8px;">
-
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=logo=ubuntu&logoColor=white" alt="Ubuntu" style="width:5.5%; border-radius: 8px;">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=logo=cypress&logoColor=white%29" alt="Cypress" style="width:5.1%; border-radius: 8px;">
 </p>
 <hr>
 
