@@ -14,7 +14,7 @@
   <img src="https://camo.githubusercontent.com/9171ba502a33edab7b02aad664503200b0ac5cf4339f3a07f367dccad21e19b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d253233313537324236" alt="CSS" style="max-width: 100%;">
 
 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=logo=ubuntu&logoColor=white" alt="Ubuntu" style="width:5%; border-radius: 8px;">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=logo=ubuntu&logoColor=white" alt="Ubuntu" style="width:5.5%; border-radius: 8px;">
 
 
 
