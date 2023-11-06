@@ -5,6 +5,7 @@
  <p>Welcome to my GitHub profile! I'm a passionate developer specializing in web technologies.</p>
   <p>🔗 Connect with me: <a href="https://www.linkedin.com/in/dianavoz/">LinkedIn</a></p>
 </div>
+&nbsp;
 
   <div class="pt-4 mb-4">
     <h2>Technologies & Tools</h2>
@@ -19,6 +20,7 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
     <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress">
   </div>
+  &nbsp;
 
   <div class="mb-4">
     <h2>Stats</h2>
