@@ -11,7 +11,7 @@
   <h2>⚙️ Technologies & Tools </h2>
 </div>
   <p>
-    <b>Frontend: </b> 
+    <b>Frontend:  </b> 
     <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E" alt="JavaScript"> 
     <img src="https://img.shields.io/badge/-TypeScript-%233178C6" alt="TypeScript"> 
     <img src="https://img.shields.io/badge/-React-%2361DAFB" alt="React"> 
@@ -22,13 +22,13 @@
   </p>
 
   <p>
-    <b>Backend & Database: </b> 
+    <b>Backend & Database:  </b> 
     <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   </p>
 
   <p>
-    <b>Tools & Others: </b> 
+    <b>Tools & Others:  </b> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"> 
     <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"> 
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
