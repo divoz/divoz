@@ -1,25 +1,10 @@
-## Hi, I'm Diana 👋
+# Hi there 👋
 
-### 💻 Full Stack Developer  
-Building web applications using **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express**, and **MongoDB**.  
-Applying test-driven development with **Jest**, **Cypress**, and **Postman**.  
-Exploring **AWS** to improve backend and cloud deployment skills.
+My name is Diana, and I’m a full-stack developer using **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express.js**, and **MongoDB** to build secure, scalable applications.
 
-**Tech stack:** JavaScript · TypeScript · React · Node.js · Express · MongoDB · PostgreSQL · Jest · Cypress · Postman
+- 🔧 I’m currently building **browser security guardian**, a full-stack app exploring browser security (XSS, CSP, cookies).
+- 💬 Co-developed [Smack Chat](https://github.com/smack-apps/smack-chat), a real-time messaging app using React & Socket.io.
+- 🌱 Strengthening backend skills and learning AWS to improve deployment strategies in real-world projects.
 
----
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/divoz)
 
-### 🧩 Projects
-- **smack chat** – real-time chat app using React & Socket.io  
-- **browser security guardian** _(in progress)_ – full-stack app to explore key browser security concepts (XSS, CSP, cookies)  
-  _Tech:_ React · Node.js · Express · AWS _(learning)_
-
----
-
-### 📚 Learning
-- Strengthening backend architecture and cloud fundamentals with AWS  
-- 🔐 Learning core security principles to build safer full-stack applications
-
----
-
-📫 **Reach me at**: [LinkedIn](https://www.linkedin.com/in/divoz)
