@@ -1,10 +1,12 @@
-# Hi there 👋
+# I’m Diana, a full-stack developer
 
-My name is Diana, and I’m a full-stack developer using **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express.js**, and **MongoDB** to build secure, scalable applications.
+I work with **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express.js**, and **MongoDB** to build secure, scalable applications.
 
-- 🔧 I’m currently building **browser security guardian**, a full-stack app exploring browser security (XSS, CSP, cookies).
-- 💬 Co-developed [Smack Chat](https://github.com/smack-apps/smack-chat), a real-time messaging app using React & Socket.io.
-- 🌱 Strengthening backend skills and learning AWS to improve deployment strategies in real-world projects.
+- 🛡️ Currently building **Browser Security Guardian** *(WIP)*. It simulates browser attacks and teaches how to prevent them.
+- 💬 Co-developed [**Smack Chat**](https://github.com/smack-apps/smack-chat), a real-time messaging with typing indicators and socket-based rooms.
+- 🌱 Getting to know **AWS** and how to use it to deploy full-stack apps.
 
 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/divoz)
+
+
 
