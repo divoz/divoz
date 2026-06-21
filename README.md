@@ -7,7 +7,7 @@ I work with **JavaScript**, **TypeScript**, **Next.js**, **React**, **Node.js**,
 
 ➣  Currently building [**Web Check**](https://github.com/divoz/web-check). It simulates XSS attacks and shows real-world browser defenses. </br>
 ➣  Co-developed [**Smack Chat**](https://github.com/smack-apps/smack-chat), a real-time messaging app with socket rooms, built with React, MongoDB, Express & Socket.io </br>
-➣  Exploring **AWS** to deploy and manage full-stack applications.
+➣  Deploying full-stack applications on **AWS** using Docker, EC2, CDK, Nginx, ECS/Fargate and PostgreSQL.
 
 [LinkedIn](https://www.linkedin.com/in/divoz)
 
