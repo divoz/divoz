@@ -1,7 +1,7 @@
 <!-- These are icon options: (▫️,▸,➤,➣,◦,✅,🔄,·,→,➖,☑️,✨,🚀,🔍,🔑,📦,🛠️,🔧,🟨,💥,🧩,❗️,❌,🔚,🧠) -->
 
 
-I'm Diana, a full-stack developer focused on backend and cloud.
+**I'm Diana, a full-stack developer focused on backend and cloud.**
 
 I work with TypeScript, Node.js, Next.js, Express, PostgreSQL and MongoDB, with testing in Jest and Cypress.
 
