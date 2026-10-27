@@ -4,7 +4,7 @@
 
 Full-stack developer working with TypeScript, Node.js and Next.js.
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,express,postgres,mongodb,jest,cypress&perline=8" height="22" alt="TypeScript, Node.js, Next.js, Express, PostgreSQL, MongoDB, Jest, Cypress" /> <br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" /> <br>
 
 🔑  [**Identity App**](https://github.com/divoz/identity-app) · currently building <br>▸ RBAC identity service with audit logging and AI-assisted security investigation <br>▸ Next.js · TypeScript · PostgreSQL · Prisma · AWS · Terraform
 
