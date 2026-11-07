@@ -2,7 +2,7 @@
 <!-- 🔑  [**Access Portal**](https://github.com/divoz/access-portal) · currently building <br>▸ RBAC identity service with audit logging and AI-assisted security investigation <br>▸ Next.js · TypeScript · PostgreSQL · Prisma · AWS · Terraform -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:3C829B&height=120&section=header&animation=fadeIn" alt="" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B4F6C,100:0097B2&height=120&section=header&animation=fadeIn" alt="" width="100%" />
 </p>
 
 # Diana Vozanu
@@ -32,6 +32,3 @@ Full-stack developer working with TypeScript, Node.js and Next.js.
 
    <a href="https://www.linkedin.com/in/divoz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:3C829B&height=100&section=footer" width="100%" alt="" />
-</p>
